@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    padding: 20px 0 0 20px;
+    max-width: 800px;
+    color: red;
+    background-color: darkblue;
+}
+
+h1 {
+    color: darkgreen;
+    border: 2px solid white
+}
+
+button {
+    padding: 30px;
+    border: 4px dotted lavenderblush;
+    display: block;
+    align-content: center;
+}
+
+span {
+    font-size: small;
+}
