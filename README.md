@@ -1,3 +1,3 @@
 # chuckle
-random fact generator : Chuck Norris
-could be facts, could be false, only one way to ROUNDHOUSE KICK
+random fact generator : Chuck Norris.
+Could be facts, could be false, but only one way to ROUNDHOUSE KICK
