@@ -7,17 +7,22 @@ body {
 }
 
 h1 {
-    color: darkgreen;
-    border: 2px solid white
+    color: rgb(48, 148, 48);
+    border: 2px solid #e7bc52
 }
 
 button {
-    padding: 30px;
-    border: 4px dotted lavenderblush;
+    color: #a078ea;
+    margin-left: 330px;
+    padding: 20px;
     display: block;
-    align-content: center;
 }
 
 span {
     font-size: small;
+}
+
+h3 {
+    border: 2px white thick;
+    color: #a078ea
 }
